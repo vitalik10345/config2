@@ -1,0 +1,7 @@
+{
+  "graph_tool_path": "/usr/bin/dot",
+  "package_name": "curl",
+  "output_file": "output.dot",
+  "max_depth": 2,
+  "repository_url": "http://archive.ubuntu.com/ubuntu"
+}
