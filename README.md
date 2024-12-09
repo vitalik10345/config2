@@ -214,7 +214,15 @@ dot -Tpng output.dot -o output.png
 pytest
 
 ```
+## Примеры использования
+### Запуск визуализатора:
+ ```bash
+python3 main.py config.json
 
+```
+### Пример сеанса работы:
+### С помощью ручного ввода рассмотрим как работает визуализатор
+![image](https://github.com/user-attachments/assets/9fe20c27-7d9b-4ec4-bf71-dd9ccf0e14bc)
 
 ---
  
